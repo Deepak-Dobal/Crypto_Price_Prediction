@@ -23,7 +23,7 @@
 5- **Evaluate the model**: Use the testing data to evaluate the performance of the RNN model. You can calculate various metrics, 
     such as mean squared error (MSE) and mean absolute error (MAE), to measure the accuracy of the model's predictions.
     These are the evaluation metrics for two different models trained on the same data:
-**LSTM Model Evaluation:
+**LSTM Model Evaluation:**
 
 Mean Squared Error (MSE): 45548469.30591707
 
@@ -31,7 +31,7 @@ Root Mean Squared Error (RMSE): 6748.960609302522
 
 Mean Absolute Error (MAE): 3388.6037627575442
 
-**GRU Model Evaluation:
+**GRU Model Evaluation:**
 
 Mean Squared Error (MSE): 21164902.306781307
 
