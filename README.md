@@ -25,20 +25,18 @@
     These are the evaluation metrics for two different models trained on the same data:
     
 **LSTM Model Evaluation:**
+MSE: 24469439.631619945
 
-Mean Squared Error (MSE): 45548469.30591707
+RMSE: 4946.659441645437
 
-Root Mean Squared Error (RMSE): 6748.960609302522
-
-Mean Absolute Error (MAE): 3388.6037627575442
+MAE: 1938.9612872579823
 
 **GRU Model Evaluation:**
+MSE: 11028995.233338801
 
-Mean Squared Error (MSE): 21164902.306781307
+RMSE: 3320.993109498844
 
-Root Mean Squared Error (RMSE): 4600.532828573371
-
-Mean Absolute Error (MAE): 1932.582077325559
+MAE: 1280.847861115829
 
 From the given evaluation metrics, it appears that the GRU model performs better than the LSTM model as it has a lower MSE, RMSE, and MAE.
     
