@@ -24,7 +24,9 @@
     such as mean squared error (MSE) and mean absolute error (MAE), to measure the accuracy of the model's predictions.
     These are the evaluation metrics for two different models trained on the same data:
     
+    
 **LSTM Model Evaluation:**
+
 MSE: 24469439.631619945
 
 RMSE: 4946.659441645437
@@ -32,6 +34,7 @@ RMSE: 4946.659441645437
 MAE: 1938.9612872579823
 
 **GRU Model Evaluation:**
+
 MSE: 11028995.233338801
 
 RMSE: 3320.993109498844
